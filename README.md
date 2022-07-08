@@ -1,5 +1,5 @@
 # Project's Title
-Example to view how to make and write a README.md doc
+Example to write a README.md doc sample
 
 ## Table of Contents
 
