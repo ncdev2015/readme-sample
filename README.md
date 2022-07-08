@@ -37,8 +37,25 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 Procedure 3
 ```
 
+And after run:
+
 ```
 Procedure 3.1
 ```
+
+### Make the change
+
+1. Follow the ["Running locally"](#running-locally) instructions
+1. Save the files and check in the browser
+  1. Changes to React components in `src` will hot-reload
+  1. Changes to markdown files in `content` will hot-reload
+  1. If working with plugins, you may need to remove the `.cache` directory and restart the server
+
+### Test the change
+
+1. If possible, test any visual changes in all latest versions of common browsers, on both desktop and mobile.
+1. Run `yarn check-all` from the project root. (This will run Prettier, ESLint, and Flow.)
+
+
 
 Source: https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
