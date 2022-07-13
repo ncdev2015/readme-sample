@@ -1,4 +1,4 @@
-![Company logo](https://github.com/ncdev2015/readme-sample/blob/main/images/company_logo.png)
+<p align="center"><a href="#" target="_blank" rel="noopener noreferrer"><img width="100" src="https://raw.githubusercontent.com/ncdev2015/readme-sample/main/images/company_logo.png" alt="Vue logo"></a></p>
 
 # Project's Title
 
