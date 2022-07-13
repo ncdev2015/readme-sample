@@ -1,4 +1,4 @@
-<p align="center"><a href="#" target="_blank" rel="noopener noreferrer"><img width="100" src="https://raw.githubusercontent.com/ncdev2015/readme-sample/main/images/company_logo.png" alt="Logo example"></a></p>
+<p align="center"><a href="#" target="_blank" rel="noopener noreferrer"><img width="150" src="https://raw.githubusercontent.com/ncdev2015/readme-sample/main/images/example_logo_3.png" alt="Logo example"></a></p>
 
 # Project's Title
 
