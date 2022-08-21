@@ -93,15 +93,4 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 1. If possible, test any visual changes in all latest versions of common browsers, on both desktop and mobile.
 1. Run `yarn check-all` from the project root. (This will run Prettier, ESLint, and Flow.)
 
-*********
-Resources
-*********
-
--  `User Guide <https://codeigniter.com/docs>`_
--  `Contributing Guide <https://github.com/bcit-ci/CodeIgniter/blob/develop/contributing.md>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community Slack Channel <https://codeigniterchat.slack.com>`_
-
 Licence: Some licence.
